@@ -1,4 +1,4 @@
-<mxGraphModel dx="2500" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+<mxGraphModel dx="2249" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
   <root>
     <mxCell id="0"/>
     <mxCell id="1" parent="0"/>
@@ -23,7 +23,7 @@
     <mxCell id="JxfwijeBZ9hhMscocp7t-81" value="Stored data from previous sessions" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=14;verticalAlign=bottom;" parent="1" vertex="1">
       <mxGeometry x="-100" y="173.5" width="220" height="55" as="geometry"/>
     </mxCell>
-    <UserObject label="&lt;div&gt;ВРП по виду экон. деят-ти (тыс.руб.) --- &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Среднегодовая чис-ть занятых по виду экон. деят-ти (тыс. чел.) --- &lt;br&gt;&lt;/div&gt;" id="JxfwijeBZ9hhMscocp7t-95">
+    <UserObject label="&lt;div&gt;GRP on economic activity (th. rubles) --- &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The average annual number of employed by economic activity (th.) ---&lt;br&gt;&lt;/div&gt;" id="JxfwijeBZ9hhMscocp7t-95">
       <mxCell style="text;html=1;fontSize=14;" parent="1" vertex="1">
         <mxGeometry x="500" y="158" width="310" height="80" as="geometry"/>
       </mxCell>
@@ -109,7 +109,7 @@
       <mxGeometry x="594" y="401" width="350" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="mMz3e8jruRG55K2BbkiF-4" value="$$GRP_{EA}$$" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-      <mxGeometry x="770" y="152" width="100" height="20" as="geometry"/>
+      <mxGeometry x="761" y="152" width="100" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="mMz3e8jruRG55K2BbkiF-5" value="$$\overline{Q_{EA}}$$" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
       <mxGeometry x="953" y="180" width="140" height="20" as="geometry"/>
@@ -120,10 +120,10 @@
     <mxCell id="mMz3e8jruRG55K2BbkiF-7" value="$$\overline {P_{EA}}$$" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
       <mxGeometry x="30" y="465" width="140" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="8vS6-f7rj3p823xS4ipN-2" value="Data collection error, stop." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+    <mxCell id="8vS6-f7rj3p823xS4ipN-2" value="Data collection error, stop." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
       <mxGeometry x="640" y="275.2142857142858" width="130" height="60" as="geometry"/>
     </mxCell>
-    <mxCell id="8vS6-f7rj3p823xS4ipN-3" value="&lt;div&gt;Indicator value was&lt;/div&gt;&lt;div&gt; not received&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" vertex="1" parent="1">
+    <mxCell id="8vS6-f7rj3p823xS4ipN-3" value="&lt;div&gt;Indicator value was&lt;/div&gt;&lt;div&gt; not received&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
       <mxGeometry x="459" y="284.5" width="140" height="40" as="geometry"/>
     </mxCell>
   </root>
