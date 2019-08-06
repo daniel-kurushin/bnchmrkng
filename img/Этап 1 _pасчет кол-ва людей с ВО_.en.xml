@@ -6,7 +6,7 @@
       <mxGeometry relative="1" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-7" value="Begin to calculate the educated people" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-      <mxGeometry x="270" y="60" width="130" height="60" as="geometry"/>
+      <mxGeometry x="265" y="60" width="140" height="60" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-120" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=2;fontSize=14;" parent="1" source="JxfwijeBZ9hhMscocp7t-60" target="JxfwijeBZ9hhMscocp7t-98" edge="1">
       <mxGeometry relative="1" as="geometry"/>
@@ -124,8 +124,8 @@
     <mxCell id="JxfwijeBZ9hhMscocp7t-128" value="Data collection error, stop." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
       <mxGeometry x="640" y="275.2142857142858" width="130" height="60" as="geometry"/>
     </mxCell>
-    <mxCell id="JxfwijeBZ9hhMscocp7t-130" value="&lt;div&gt;Indicator value was&lt;/div&gt;&lt;div&gt; not received&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
-      <mxGeometry x="440" y="284" width="140" height="40" as="geometry"/>
+    <mxCell id="JxfwijeBZ9hhMscocp7t-130" value="&lt;div&gt;Indicator value is&lt;/div&gt;&lt;div&gt; not received&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
+      <mxGeometry x="440" y="284" width="120" height="40" as="geometry"/>
     </mxCell>
   </root>
 </mxGraphModel>

@@ -3,13 +3,13 @@
     <mxCell id="0"/>
     <mxCell id="1" parent="0"/>
     <mxCell id="JxfwijeBZ9hhMscocp7t-4" value="" style="group" parent="1" connectable="0" vertex="1">
-      <mxGeometry x="490" y="75" width="390" height="190" as="geometry"/>
+      <mxGeometry x="490" y="67.5" width="410" height="205" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;pointerEvents=1" parent="JxfwijeBZ9hhMscocp7t-4" vertex="1">
-      <mxGeometry width="60" height="190" as="geometry"/>
+      <mxGeometry width="60" height="205" as="geometry"/>
     </mxCell>
-    <mxCell id="JxfwijeBZ9hhMscocp7t-3" value="Region size&lt;br&gt;Population age structure&lt;br&gt;Urbanization&lt;br&gt;Traffic accessibility&lt;br&gt;Level of education&lt;br&gt;Patent research&lt;br&gt;the Volume of innovative goods, works, services&lt;br&gt;the Average annual labor productivity, thousand rubles/person&lt;br&gt;Businesses and organizations&lt;br&gt;External economic activity&lt;br&gt;Culture, recreation and tourism&lt;br&gt;Crime level" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="JxfwijeBZ9hhMscocp7t-4" vertex="1">
-      <mxGeometry x="40" y="6" width="350" height="170" as="geometry"/>
+    <mxCell id="JxfwijeBZ9hhMscocp7t-3" value="&lt;div&gt;Factors:&lt;/div&gt;&lt;div&gt;1) Size of the region&lt;/div&gt;2) Population age structure&lt;br&gt;3) Urbanization&lt;br&gt;4) Transport availability &lt;br&gt;5) Level of education&lt;br&gt;6) Patent research&lt;br&gt;7) Share of innovative goods, works, services&lt;br&gt;8) the Average annual labor productivity, thousand rubles/person&lt;br&gt;9) Enterprises and organizations&lt;br&gt;10) Foreign economic activity&lt;br&gt;11) Culture, recreation and tourism&lt;br&gt;12) Crime rate" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="JxfwijeBZ9hhMscocp7t-4" vertex="1">
+      <mxGeometry x="40" y="6.473684210526316" width="370" height="180" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;fontSize=14;" parent="1" source="JxfwijeBZ9hhMscocp7t-7" target="JxfwijeBZ9hhMscocp7t-8" edge="1">
       <mxGeometry relative="1" as="geometry"/>
@@ -84,7 +84,7 @@
         </Array>
       </mxGeometry>
     </mxCell>
-    <mxCell id="JxfwijeBZ9hhMscocp7t-35" value="parser code storage" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=14;verticalAlign=bottom;" parent="1" vertex="1">
+    <mxCell id="JxfwijeBZ9hhMscocp7t-35" value="&lt;div&gt;parser source&lt;/div&gt;&lt;div&gt;code storage&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=14;verticalAlign=bottom;" parent="1" vertex="1">
       <mxGeometry x="90" y="599" width="130" height="60" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-37" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.021;entryY=0.994;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=2;fontSize=14;entryPerimeter=0;" parent="1" source="JxfwijeBZ9hhMscocp7t-36" target="JxfwijeBZ9hhMscocp7t-20" edge="1">
@@ -204,7 +204,7 @@
     <mxCell id="JxfwijeBZ9hhMscocp7t-59" value="" style="group" parent="1" connectable="0" vertex="1">
       <mxGeometry x="856" y="950" width="766" height="260" as="geometry"/>
     </mxCell>
-    <mxCell id="JxfwijeBZ9hhMscocp7t-57" value="For example, for the indicator &quot;annual Average labor productivity, thousand rubles/person&quot;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Agriculture, hunting and forestry; fishing, fish farming &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Mining &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Manufacturing &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Production and distribution of electricity, gas, water &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Construction &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Wholesale &amp;amp; retail trade&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Auto repair, motorcycles, household goods and personal items&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hotels and restaurants&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Transport and communications&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Operations with real estate, rental and services&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Education &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Health and social services &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Other community, social and personal services &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Other activities" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="JxfwijeBZ9hhMscocp7t-59" vertex="1">
+    <mxCell id="JxfwijeBZ9hhMscocp7t-57" value="For example, for the indicator &quot;Average annual labor productivity, thousand rubles/person&quot;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Agriculture, hunting and foand personalrestry; fishing, fish farming &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Mining &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Manufacturing &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Production and distribution of electricity, gas, water &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Construction &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Wholesale &amp;amp; retail trade&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Repair of motor vehicles, motorcycles, household and personal goods&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hotels and restaurants&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Transport and communications&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Operations with real estate, rental and services&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Education &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Healthcare and social services &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Other community, social and personal services &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Other activities" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="JxfwijeBZ9hhMscocp7t-59" vertex="1">
       <mxGeometry x="36" width="590" height="260" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-58" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;pointerEvents=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=14;" parent="JxfwijeBZ9hhMscocp7t-59" vertex="1">
@@ -231,14 +231,14 @@
     <mxCell id="JxfwijeBZ9hhMscocp7t-67" value="Restart iteration" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=14;" parent="1" vertex="1">
       <mxGeometry x="1233" y="599" width="100" height="60" as="geometry"/>
     </mxCell>
-    <mxCell id="JxfwijeBZ9hhMscocp7t-69" value="&lt;div&gt;Response was &lt;br&gt;&lt;/div&gt;&lt;div&gt;not received&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
-      <mxGeometry x="1084" y="609" width="110" height="40" as="geometry"/>
+    <mxCell id="JxfwijeBZ9hhMscocp7t-69" value="&lt;div&gt;Response is&lt;br&gt;&lt;/div&gt;&lt;div&gt;not received&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
+      <mxGeometry x="1084" y="609" width="90" height="40" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-71" value="Parser error,&lt;br&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;stop.&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=14;" parent="1" vertex="1">
       <mxGeometry x="1228" y="820" width="110" height="60" as="geometry"/>
     </mxCell>
-    <mxCell id="JxfwijeBZ9hhMscocp7t-73" value="Extracted data do not satisfy&lt;br&gt;to the &quot;meaningful test&quot;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
-      <mxGeometry x="850" y="863" width="200" height="40" as="geometry"/>
+    <mxCell id="JxfwijeBZ9hhMscocp7t-73" value="Extracted data do not pass&lt;br&gt;to the &quot;meaningful test&quot;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
+      <mxGeometry x="850" y="863" width="190" height="40" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-74" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;fontSize=14;dashed=1;dashPattern=1 1;" parent="1" source="JxfwijeBZ9hhMscocp7t-58" target="JxfwijeBZ9hhMscocp7t-49" edge="1">
       <mxGeometry relative="1" as="geometry"/>
@@ -249,8 +249,8 @@
     <mxCell id="JxfwijeBZ9hhMscocp7t-76" value="The parameters of the HTTP request" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
       <mxGeometry x="224" y="530" width="190" height="20" as="geometry"/>
     </mxCell>
-    <mxCell id="JxfwijeBZ9hhMscocp7t-78" value="The parser was not found" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
-      <mxGeometry x="850" y="752" width="180" height="20" as="geometry"/>
+    <mxCell id="JxfwijeBZ9hhMscocp7t-78" value="The parser is not found" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
+      <mxGeometry x="850" y="752" width="160" height="20" as="geometry"/>
     </mxCell>
     <mxCell id="JxfwijeBZ9hhMscocp7t-79" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=1 1;endArrow=none;endFill=0;strokeWidth=2;fontSize=14;" parent="1" source="JxfwijeBZ9hhMscocp7t-1" target="JxfwijeBZ9hhMscocp7t-8" edge="1">
       <mxGeometry relative="1" as="geometry"/>
@@ -278,8 +278,23 @@
     <mxCell id="JxfwijeBZ9hhMscocp7t-86" value="Source error, stop" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;rounded=1;shadow=0;glass=0;comic=0;fillColor=none;fontSize=14;" parent="1" vertex="1">
       <mxGeometry x="1233" y="707" width="100" height="60" as="geometry"/>
     </mxCell>
-    <mxCell id="8vS6-f7rj3p823xS4ipN-3" value="&lt;div&gt;Response was &lt;br&gt;&lt;/div&gt;&lt;div&gt;not received more&lt;/div&gt;&lt;div&gt;than 3 times&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" vertex="1" parent="1">
+    <mxCell id="8vS6-f7rj3p823xS4ipN-3" value="&lt;div&gt;Response was &lt;br&gt;&lt;/div&gt;&lt;div&gt;not received more&lt;/div&gt;&lt;div&gt;than 3 times&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;" parent="1" vertex="1">
       <mxGeometry x="1179" y="657" width="130" height="50" as="geometry"/>
+    </mxCell>
+    <mxCell id="dPXcxFrlQBiIMmG8YOou-5" value="" style="group" vertex="1" connectable="0" parent="1">
+      <mxGeometry x="20" y="136" width="215" height="34" as="geometry"/>
+    </mxCell>
+    <mxCell id="dPXcxFrlQBiIMmG8YOou-3" value="Loop on each indicator of 12 factors" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="dPXcxFrlQBiIMmG8YOou-5">
+      <mxGeometry y="7" width="210" height="20" as="geometry"/>
+    </mxCell>
+    <mxCell id="dPXcxFrlQBiIMmG8YOou-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;pointerEvents=1;rotation=180;" vertex="1" parent="dPXcxFrlQBiIMmG8YOou-5">
+      <mxGeometry x="190" width="25" height="34" as="geometry"/>
+    </mxCell>
+    <mxCell id="dPXcxFrlQBiIMmG8YOou-6" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;dashPattern=1 1;endArrow=none;endFill=0;strokeWidth=2;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dPXcxFrlQBiIMmG8YOou-4" target="JxfwijeBZ9hhMscocp7t-8">
+      <mxGeometry relative="1" as="geometry">
+        <mxPoint x="500" y="180" as="sourcePoint"/>
+        <mxPoint x="395" y="180" as="targetPoint"/>
+      </mxGeometry>
     </mxCell>
   </root>
 </mxGraphModel>
